@@ -114,7 +114,8 @@ public class Main {
 menyembunyikan modifier dengan private seperti nama, targetAir, dan totalMinum. mengaksesnya menggunakan method getter.
 2. Abstraction
 class user dan tracker disembunyikan dari pengguna atau hanya sebagai mesin program.
-4. Tracker menggunakan object dari class User
+4. Inheritence
+Tracker menggunakan object dari class User
 
 ### Kesimpulan
 Program ini menggunakan kasus sederhana yang dekat dengan kehidupan sehari-hari, yaitu pencatatan minum air. Program juga interaktif karena menerima input dari pengguna dan memberikan evaluasi status berdasarkan target yang ditentukan.
